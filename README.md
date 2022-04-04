@@ -1,5 +1,10 @@
 # Alice-EMS
 
+● The code should have relevant tests. A linting tool should be used.
+● The project should be deployed in a cloud environment (GCP or AWS).
+● The data should be stored in a database in that cloud environment using the learned ORM libraries. 
+● API endpoint should have some level of authentication.
+
 ## Objectives
 effective employee management system should include key features,
 such as time and attendance management (e.g., time tracking by way of employee
